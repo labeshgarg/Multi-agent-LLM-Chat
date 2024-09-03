@@ -1,0 +1,9 @@
+*__pycache__*
+# Ignore database files
+db/
+
+# Ignore source code files
+src/
+
+# Ignore environment configuration files
+.env
